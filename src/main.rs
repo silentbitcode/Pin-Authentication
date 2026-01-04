@@ -21,7 +21,7 @@ fn main() {
         io::stdin()
             .read_line(&mut input)
             .expect("Failed to read input");
-
+//reading data...
         let pin = input.trim();
         attempts += 1;
 
